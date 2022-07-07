@@ -20,7 +20,7 @@
     
   # Summary
   <p>This script drastically simplifed the process of summing the results from various sources into an output that is easy to read to determine election outcomes.     Additional functionality that might be useful to add in the future is adding a user interface making it easy to use for even unexperienced workers. This could be further modified by having it turn the data into a pie chart or some other visual representation
-  </p>()
+  </p>
 
   
   
